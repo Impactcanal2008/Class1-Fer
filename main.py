@@ -1,6 +1,7 @@
 meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
+            'BTW':'expresión similar a por cierto'
             'LMAO':'Respuesta que se usa para expresar risa'
             }
 print('Hola, bienvenido a mi diccionario')
